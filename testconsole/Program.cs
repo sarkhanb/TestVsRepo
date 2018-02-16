@@ -10,6 +10,7 @@ namespace testconsole
     {
         static void Main(string[] args)
         {
+            //salam
         }
     }
 }
